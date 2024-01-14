@@ -241,3 +241,9 @@ li {
  height: 260px;
  flex-shrink: 0;
 }
+body{
+    font-family: Roboto;
+}
+header{
+    font-family: Raleway;
+}
